@@ -1,0 +1,25 @@
+{
+  "name": "freeze-view",
+  "version": "1.0.0",
+  "description": "gets all the computed styles in a given moment in time and allows to reset them",
+  "main": "lib/FreezeView.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phalanstere/FreezeView.git"
+  },
+  "keywords": [
+    "css",
+    "getComputedStyle", 
+    "style",
+    "currentStyle"
+  ],
+  "author": "phalanstere <burckhardt@ludicmedia.de> (https://github.com/Phalanstere)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Phalanstere/FreezeView/issues"
+  },
+  "homepage": "https://github.com/Phalanstere/FreezeView#readme"
+}
