@@ -1,13 +1,13 @@
 # FreezeView
 holds all the style informations in a given point in time (and allows to reset them)
 
-# Installation
+## Installation
 
 ```javascript
 	npm install freeze-view
 ```
 
-# Usage
+## Usage
 
 
 ```javascript
@@ -41,7 +41,7 @@ If you want to read in a modified view (ater having added a dom element for exam
 Since freeze is an object, you can have multiple instances representing the state of the view in a given moment in time 
 
 
-# Non npm usage
+## Non npm usage
 
 If you want to use **freeze-view** in a non-ppm environment, you can embed the library in your html-file as well:
 
