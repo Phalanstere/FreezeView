@@ -39,3 +39,13 @@ If you want to read in a modified view (ater having added a dom element for exam
 ```
 
 Since freeze is an object, you can have multiple instances representing the state of the view in a given moment in time 
+
+
+# Non npm usage
+
+If you want to use **freeze-view** in a non-ppm environment, you can embed the library in your html-file as well:
+
+```html
+ 	<script src="FreezeView.js"></script>
+```
+
